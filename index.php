@@ -24,7 +24,7 @@
             <th>Email</th>
             <th>Jurusan</th>
         </tr>
-        <?php $number = 1; ?>
+        <?php $number = 13; ?>
         <?php foreach( $mahasiswa as $row) : ?>
         <tr>
             <td><?= $number; ?></td>
